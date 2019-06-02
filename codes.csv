@@ -1,0 +1,836 @@
+﻿Device Code,Device Name
+5060,Advan 5060
+advan,Advan Devices
+s4z,Advan S4Z
+alcatel,Alcatel Devices
+one touch pixi 3,Alcatel One Touch Pixi 3
+one touch pixi 3 (3.5),Alcatel One Touch Pixi 3 (3.5)
+one touch pixi 3 (4.5),Alcatel One Touch Pixi 3 (4.5)
+one touch pixi 4 (4),Alcatel One Touch Pixi 4 (4)
+one touch pixi 4 (5),Alcatel One Touch Pixi 4 (5)
+one touch pixi 4 (5.0),Alcatel One Touch Pixi 4 (5.0)
+one touch pixi 4 (6),Alcatel One Touch Pixi 4 (6)
+one touch pop 3 (5),Alcatel One Touch Pop 3 (5)
+one touch pop 3 (5.5),Alcatel One Touch Pop 3 (5.5)
+one touch pop c1,Alcatel One Touch Pop C1
+one touch pop c3,Alcatel One Touch Pop C3
+one touch pop c5,Alcatel One Touch Pop C5
+one touch pop c7,Alcatel One Touch Pop C7
+u5,Alcatel U5
+amazon,Amazon Devices
+fire,Amazon Fire
+fire hd 10 (2017),Amazon Fire HD 10 (2017)
+fire hd 8 (2017),Amazon Fire HD 8 (2017)
+kindle fire,Amazon Kindle Fire
+kindle fire hd 7 (2012),Amazon Kindle Fire HD 7 (2012)
+kindle fire hd 7 (2013),Amazon Kindle Fire HD 7 (2013)
+kindle fire hd 8.9,Amazon Kindle Fire HD 8.9
+kindle fire hdx 7,Amazon Kindle Fire HDX 7
+kindle fire hdx 8.9,Amazon Kindle Fire HDX 8.9
+Android_Smartphone,Android Smartphones (all)
+Android_Tablet,Android Tablets (all)
+asus,Asus Devices
+transformer pad,Asus Transformer Pad
+zenfone 2,Asus ZenFone 2
+zenfone 2 deluxe,Asus ZenFone 2 Deluxe
+zenfone 2 laser,Asus ZenFone 2 Laser
+zenfone 3,Asus ZenFone 3
+zenfone 3 max,Asus ZenFone 3 Max
+zenfone 4,Asus ZenFone 4
+zenfone 4 max,Asus ZenFone 4 Max
+zenfone 4 selfie,Asus ZenFone 4 Selfie
+zenfone 5,Asus ZenFone 5
+zenfone 6,Asus ZenFone 6
+zenfone c,Asus ZenFone C
+zenfone go,Asus ZenFone Go
+zenfone go 4.5,Asus ZenFone Go 4.5
+zenfone go tv,Asus ZenFone Go TV
+zenfone laser 2,Asus ZenFone Laser 2
+zenfone live,Asus ZenFone Live
+zenfone max,Asus ZenFone Max
+zenfone max pro m1,Asus ZenFone Max Pro M1
+zenfone selfie,Asus ZenFone Selfie
+blackberry,Blackberry Devices
+q10,Blackberry Q10
+z10,Blackberry Z10
+allure a8,Condor Allure A8
+condor,Condor Devices
+plume p6 pro,Condor Plume P6 Pro
+docomo,Docomo Devices
+gionee,Gionee Devices
+f103 pro,Gionee F103 Pro
+p5l,Gionee P5L
+p5w,Gionee P5W
+google,Google Devices
+galaxy tab 10.1,Google Galaxy Tab 10.1
+nexus 10,Google Nexus 10
+nexus 5,Google Nexus 5
+nexus 5x,Google Nexus 5X
+nexus 6,Google Nexus 6
+nexus 6p,Google Nexus 6P
+nexus 7,Google Nexus 7
+nexus 9,Google Nexus 9
+nexus one,Google Nexus One
+pixel,Google Pixel
+pixel 2,Google Pixel 2
+pixel 2 xl,Google Pixel 2 XL
+pixel 3,Google Pixel 3
+pixel 3 xl,Google Pixel 3 XL
+pixel xl,Google Pixel XL
+10,Htc 10
+desire 510,Htc Desire 510
+desire 526g,Htc Desire 526G
+desire 530,Htc Desire 530
+desire 620g,Htc Desire 620G
+desire 626,Htc Desire 626
+desire 626s,Htc Desire 626S
+desire 728,Htc Desire 728
+desire 816,Htc Desire 816
+desire 820,Htc Desire 820
+desire 820g+,Htc Desire 820G+
+htc,Htc Devices
+one (e8),Htc One (E8)
+one (m7),Htc One (M7)
+one (m8),Htc One (M8)
+one e9+,Htc One E9+
+one m9,Htc One M9
+one m9+,Htc One M9+
+one max,Htc One Max
+one mini,Htc One Mini
+one mini 2,Htc One Mini 2
+one sv,Htc One SV
+one x,Htc One X
+one x+,Htc One X+
+one x9,Htc One X9
+one xl,Htc One XL
+u ultra,Htc U Ultra
+ascend g610,Huawei Ascend G610
+ascend g620s,Huawei Ascend G620S
+ascend g7,Huawei Ascend G7
+ascend g730,Huawei Ascend G730
+ascend p7,Huawei Ascend P7
+ascend y221,Huawei Ascend Y221
+ascend y330,Huawei Ascend Y330
+ascend y336,Huawei Ascend Y336
+ascend y360,Huawei Ascend Y360
+ascend y520,Huawei Ascend Y520
+ascend y530,Huawei Ascend Y530
+ascend y550,Huawei Ascend Y550
+ascend y560,Huawei Ascend Y560
+ascend y600,Huawei Ascend Y600
+ascend y625,Huawei Ascend Y625
+ascend y635,Huawei Ascend Y635
+huawei,Huawei Devices
+g play mini,Huawei G Play Mini
+g8,Huawei G8
+gr3,Huawei GR3
+gr5,Huawei GR5
+gr5 2017,Huawei GR5 2017
+honor 10,Huawei Honor 10
+honor 3c,Huawei Honor 3C
+honor 4a,Huawei Honor 4A
+honor 4c,Huawei Honor 4C
+honor 4x,Huawei Honor 4X
+honor 5c,Huawei Honor 5C
+honor 5x,Huawei Honor 5X
+honor 6x,Huawei Honor 6X
+honor 7a,Huawei Honor 7A
+honor 7c,Huawei Honor 7C
+honor 7s,Huawei Honor 7S
+honor 7x,Huawei Honor 7X
+honor 8,Huawei Honor 8
+honor 8x,Huawei Honor 8X
+honor 9,Huawei Honor 9
+honor 9 lite,Huawei Honor 9 Lite
+honor 9i,Huawei Honor 9i
+honor bee,Huawei Honor Bee
+honor holly,Huawei Honor Holly
+hornor 8x,Huawei Hornor 8X
+mate 10 lite,Huawei Mate 10 Lite
+mate 10 pro,Huawei Mate 10 Pro
+mate 20 lite,Huawei Mate 20 Lite
+mate 20 pro,Huawei Mate 20 Pro
+mate 8,Huawei Mate 8
+mate 9,Huawei Mate 9
+mediapad t1 7.0,Huawei MediaPad T1 7.0
+mediapad t3 10,Huawei MediaPad T3 10
+nova 2i,Huawei Nova 2i
+nova 3,Huawei Nova 3
+nova 3i,Huawei Nova 3i
+nova lite,Huawei Nova Lite
+nova young,Huawei Nova Young
+p smart,Huawei P Smart
+p smart 2019,Huawei P smart 2019
+p smart plus,Huawei P Smart Plus
+p10,Huawei P10
+p10 lite,Huawei P10 Lite
+p20,Huawei P20
+p20 lite,Huawei P20 Lite
+p20 pro,Huawei P20 Pro
+p8,Huawei P8
+p8 lite,Huawei P8 Lite
+p9,Huawei P9
+p9 lite,Huawei P9 Lite
+y3 (2017),Huawei Y3 (2017)
+y3 (2018),Huawei Y3 (2018)
+y3 ii,Huawei Y3 II
+y360,Huawei Y360
+y5 (2018),Huawei Y5 (2018)
+y5 2017,Huawei Y5 2017
+y5 ii,Huawei Y5 II
+y5 lite (2018),Huawei Y5 Lite (2018)
+y5 prime (2018),Huawei Y5 Prime (2018)
+y5 pro,Huawei Y5 Pro
+y6,Huawei Y6
+y6 (2017),Huawei Y6 (2017)
+y6 (2018),Huawei Y6 (2018)
+y6 ii,Huawei Y6 II
+y6 prime (2018),Huawei Y6 Prime (2018)
+y6 pro,Huawei Y6 Pro
+y6 pro (2017),Huawei Y6 Pro (2017)
+y7,Huawei Y7
+y7 (2018),Huawei Y7 (2018)
+y7 prime,Huawei Y7 Prime
+y7 prime (2018),Huawei Y7 Prime (2018)
+y7 prime 2019,Huawei Y7 Prime 2019
+y9 (2018),Huawei Y9 (2018)
+y9 (2019),Huawei Y9 (2019)
+infinix,Infinix Devices
+hot 2,Infinix Hot 2
+hot 4,Infinix Hot 4
+hot 4 lite,Infinix Hot 4 Lite
+hot 4 pro,Infinix Hot 4 Pro
+hot 5,Infinix Hot 5
+hot 5 lite,Infinix Hot 5 Lite
+hot 6,Infinix Hot 6
+hot note,Infinix Hot Note
+note 2,Infinix Note 2
+note 4,Infinix Note 4
+smart,Infinix Smart
+smart 2,Infinix Smart 2
+a11,Itel A11
+a32f,Itel A32F
+itel,Itel Devices
+it1408,Itel it1408
+it1409,Itel it1409
+it1508,Itel it1508
+s11,Itel S11
+lanix,Lanix Devices
+ilium x210,Lanix Ilium X210
+ilium x520,Lanix Ilium X520
+lava,Lava Devices
+iris 700,Lava Iris 700
+iris 820,Lava Iris 820
+iris fuel 50,Lava Iris Fuel 50
+z60,Lava Z60
+a1000,Lenovo A1000
+a2010,Lenovo A2010
+a369i,Lenovo A369i
+a5000,Lenovo A5000
+a536,Lenovo A536
+a6000,Lenovo A6000
+a6010,Lenovo A6010
+a6600,Lenovo A6600
+a7000,Lenovo A7000
+lenovo,Lenovo Devices
+k3 note,Lenovo K3 Note
+k5 note,Lenovo K5 Note
+k6 note,Lenovo K6 Note
+k6 power,Lenovo K6 Power
+k8 note,Lenovo K8 Note
+k8 plus,Lenovo K8 Plus
+rocstar,Lenovo RocStar
+tab 2 a7-30,Lenovo Tab 2 A7-30
+tab3 7,Lenovo Tab3 7
+vibe b,Lenovo Vibe B
+vibe c,Lenovo Vibe C
+vibe c2,Lenovo Vibe C2
+vibe k4 note,Lenovo Vibe K4 Note
+vibe k5,Lenovo Vibe K5
+vibe k5 note,Lenovo Vibe K5 Note
+vibe k5 plus,Lenovo Vibe K5 Plus
+vibe k6,Lenovo Vibe K6
+vibe p1m,Lenovo Vibe P1m
+aristo,Lg Aristo
+aristo 2,Lg Aristo 2
+lg,Lg Devices
+fortune,Lg Fortune
+g pro lite,Lg G Pro Lite
+g stylo,Lg G Stylo
+g2,Lg G2
+g2 mini,Lg G2 Mini
+g3,Lg G3
+g3 a,Lg G3 A
+g3 beat,Lg G3 Beat
+g3 mini,Lg G3 Mini
+g3 prime,Lg G3 Prime
+g3 s,Lg G3 S
+g3 stylus,Lg G3 Stylus
+g3 vigor,Lg G3 Vigor
+g4,Lg G4
+g4 beat,Lg G4 Beat
+g4 stylus,Lg G4 Stylus
+g4c,Lg G4c
+g5,Lg G5
+g6,Lg G6
+g7 thinq,Lg G7 ThinQ
+joy,Lg Joy
+k10,Lg K10
+k10 (2017),Lg K10 (2017)
+k20 plus,Lg K20 Plus
+k30,Lg K30
+k4,Lg K4
+k4 (2017),Lg K4 (2017)
+k5,Lg K5
+k7,Lg K7
+k8,Lg K8
+k8 (2017),Lg K8 (2017)
+l bello,Lg L Bello
+l fino,Lg L Fino
+l prime dual,Lg L Prime Dual
+l20,Lg L20
+l50,Lg L50
+l70,Lg L70
+leon,Lg Leon
+magna,Lg Magna
+optimus f60,Lg Optimus F60
+optimus l1 ii,Lg Optimus L1 II
+optimus l3,Lg Optimus L3
+optimus l3 ii,Lg Optimus L3 II
+optimus l4 ii,Lg Optimus L4 II
+optimus l5,Lg Optimus L5
+optimus l5 dual,Lg Optimus L5 Dual
+optimus l5 ii,Lg Optimus L5 II
+optimus l5 ii dual,Lg Optimus L5 II Dual
+optimus l7,Lg Optimus L7
+optimus l7 ii,Lg Optimus L7 II
+optimus l7 ii dual,Lg Optimus L7 II Dual
+optimus l70,Lg Optimus L70
+optimus l9,Lg Optimus L9
+optimus l9 ii,Lg Optimus L9 II
+optimus l90,Lg Optimus L90
+phoenix 3,Lg Phoenix 3
+premier pro,Lg Premier Pro
+q6,Lg Q6
+series iii l70,Lg Series III L70
+spirit,Lg Spirit
+spree,Lg Spree
+stylo 2,Lg Stylo 2
+stylo 2 plus,Lg Stylo 2 Plus
+stylo 3,Lg Stylo 3
+stylo 3 plus,Lg Stylo 3 Plus
+stylo 4,Lg Stylo 4
+stylus 3,Lg Stylus 3
+tribute,Lg Tribute
+tribute 5,Lg Tribute 5
+v10,Lg V10
+v20,Lg V20
+v30,Lg V30
+volt,Lg Volt
+x charge,Lg X Charge
+x power,Lg X Power
+x power 2,Lg X Power 2
+x style,Lg X Style
+x230,Lg X230
+zone,Lg Zone
+bharat 2 plus,Micromax Bharat 2 Plus
+micromax,Micromax Devices
+unite 2,Micromax Unite 2
+unite 3,Micromax Unite 3
+motorola,Motorola Devices
+droid maxx,Motorola Droid Maxx
+droid mini,Motorola Droid Mini
+droid razr,Motorola Droid Razr
+droid razr 4g,Motorola Droid Razr 4G
+droid razr hd,Motorola Droid Razr HD
+droid razr m,Motorola Droid Razr M
+droid turbo,Motorola Droid Turbo
+droid turbo 2,Motorola Droid Turbo 2
+moto c,Motorola Moto C
+moto c plus,Motorola Moto C Plus
+moto e,Motorola Moto E
+moto e (2016),Motorola Moto E (2016)
+moto e (2nd gen),Motorola Moto E (2nd gen)
+moto e (4th gen),Motorola Moto E (4th gen)
+moto e (4th gen) plus,Motorola Moto E (4th gen) Plus
+moto e (5th gen),Motorola Moto E (5th gen)
+moto e (5th gen) plus,Motorola Moto E (5th gen) Plus
+moto e5 cruise,Motorola Moto E5 Cruise
+moto e5 play,Motorola Moto E5 Play
+moto g,Motorola Moto G
+moto g (2nd gen),Motorola Moto G (2nd Gen)
+moto g (3rd gen),Motorola Moto G (3rd Gen)
+moto g (4th gen),Motorola Moto G (4th Gen)
+moto g 2nd gen,Motorola Moto G 2nd Gen
+moto g 2nd generation,Motorola Moto G 2nd generation
+moto g 4g,Motorola Moto G 4G
+moto g dtv,Motorola Moto G DTV
+moto g forte,Motorola Moto G Forte
+moto g play,Motorola Moto G Play
+moto g2,Motorola Moto G2
+moto g3,Motorola Moto G3
+moto g5,Motorola Moto G5
+moto g5 plus,Motorola Moto G5 Plus
+moto g5s,Motorola Moto G5S
+moto g5s plus,Motorola Moto G5S Plus
+moto g6,Motorola Moto G6
+moto g6 play,Motorola Moto G6 Play
+moto g6 plus,Motorola Moto G6 Plus
+moto x,Motorola Moto X
+moto x (2nd gen),Motorola Moto X (2nd Gen)
+moto x play,Motorola Moto X Play
+moto x pure,Motorola Moto X Pure
+moto x4,Motorola Moto X4
+moto z droid,Motorola Moto Z Droid
+moto z play dual,Motorola Moto Z Play Dual
+moto z2 force,Motorola Moto Z2 Force
+moto z2 play,Motorola Moto Z2 Play
+one,Motorola One
+razr,Motorola RAZR
+razr d1,Motorola Razr D1
+razr d3,Motorola Razr D3
+razr hd,Motorola RAZR HD
+razr i,Motorola RAZR i
+1,Nokia 1
+2,Nokia 2
+2.1,Nokia 2.1
+3,Nokia 3
+5,Nokia 5
+6.1,Nokia 6.1
+nyx,Nyx Devices
+5t,Oneplus 5T
+6,Oneplus 6
+6t,Oneplus 6T
+oneplus,Oneplus Devices
+oneplus one,Oneplus OnePlus One
+1201,Oppo 1201
+a37,Oppo A37
+a39,Oppo A39
+a3s,Oppo A3s
+a5,Oppo A5
+a57,Oppo A57
+a59,Oppo A59
+a7,Oppo A7
+a71,Oppo A71
+a71 (2018),Oppo A71 (2018)
+a83,Oppo A83
+oppo,Oppo Devices
+f1 plus,Oppo F1 Plus
+f1s,Oppo F1s
+f3,Oppo F3
+f3 plus,Oppo F3 Plus
+f5,Oppo F5
+f5 youth,Oppo F5 Youth
+f7,Oppo F7
+f9,Oppo F9
+joy 3,Oppo Joy 3
+neo 3,Oppo Neo 3
+neo 5,Oppo Neo 5
+neo 7,Oppo Neo 7
+neo 7s,Oppo Neo 7S
+r9s,Oppo R9s
+samsung,Samsung Devices
+galaxy a3,Samsung Galaxy A3
+galaxy a3 (2016),Samsung Galaxy A3 (2016)
+galaxy a3 (2017),Samsung Galaxy A3 (2017)
+galaxy a30,Samsung Galaxy A30
+galaxy a5,Samsung Galaxy A5
+galaxy a5 (2016),Samsung Galaxy A5 (2016)
+galaxy a5 (2017),Samsung Galaxy A5 (2017)
+galaxy a50,Samsung Galaxy A50
+galaxy a6,Samsung Galaxy A6
+galaxy a6 (2018),Samsung Galaxy A6 (2018)
+galaxy a6+,Samsung Galaxy A6+
+galaxy a6+ (2018),Samsung Galaxy A6+ (2018)
+galaxy a7,Samsung Galaxy A7
+galaxy a7 (2016),Samsung Galaxy A7 (2016)
+galaxy a7 (2017),Samsung Galaxy A7 (2017)
+galaxy a7 (2018),Samsung Galaxy A7 (2018)
+galaxy a8,Samsung Galaxy A8
+galaxy a8 (2018),Samsung Galaxy A8 (2018)
+galaxy a8+ (2018),Samsung Galaxy A8+ (2018)
+galaxy a9 (2018),Samsung Galaxy A9 (2018)
+galaxy a9 pro (2016),Samsung Galaxy A9 Pro (2016)
+galaxy ace,Samsung Galaxy Ace
+galaxy ace 2,Samsung Galaxy Ace 2
+galaxy ace 3,Samsung Galaxy Ace 3
+galaxy ace 4,Samsung Galaxy Ace 4
+galaxy ace 4 duos,Samsung Galaxy Ace 4 Duos
+galaxy ace 4 lite duos,Samsung Galaxy Ace 4 Lite Duos
+galaxy ace 4 neo,Samsung Galaxy Ace 4 Neo
+galaxy ace duos,Samsung Galaxy Ace Duos
+galaxy ace nxt,Samsung Galaxy Ace NXT
+galaxy ace plus,Samsung Galaxy Ace Plus
+galaxy ace style,Samsung Galaxy Ace Style
+galaxy alpha,Samsung Galaxy Alpha
+galaxy avant,Samsung Galaxy Avant
+galaxy c7 pro,Samsung Galaxy C7 Pro
+galaxy c9 pro,Samsung Galaxy C9 Pro
+galaxy centura,Samsung Galaxy Centura
+galaxy chat,Samsung Galaxy Chat
+galaxy core,Samsung Galaxy Core
+galaxy core 2,Samsung Galaxy Core 2
+galaxy core 2 duos,Samsung Galaxy Core 2 Duos
+galaxy core plus,Samsung Galaxy Core Plus
+galaxy core prime,Samsung Galaxy Core Prime
+galaxy core prime duos,Samsung Galaxy Core Prime Duos
+galaxy e5,Samsung Galaxy E5
+galaxy e7,Samsung Galaxy E7
+galaxy exhibit,Samsung Galaxy Exhibit
+galaxy fame,Samsung Galaxy Fame
+galaxy fame lite,Samsung Galaxy Fame Lite
+galaxy fame lite duos,Samsung Galaxy Fame Lite Duos
+galaxy gran neo duos,Samsung Galaxy Gran Neo Duos
+galaxy grand,Samsung Galaxy Grand
+galaxy grand 2,Samsung Galaxy Grand 2
+galaxy grand 2 duos,Samsung Galaxy Grand 2 Duos
+galaxy grand max,Samsung Galaxy Grand Max
+galaxy grand neo,Samsung Galaxy Grand Neo
+galaxy grand prime,Samsung Galaxy Grand Prime
+galaxy grand prime plus,Samsung Galaxy Grand Prime Plus
+galaxy grand quattro,Samsung Galaxy Grand Quattro
+galaxy j1,Samsung Galaxy J1
+galaxy j1 (2016),Samsung Galaxy J1 (2016)
+galaxy j1 ace,Samsung Galaxy J1 Ace
+galaxy j1 mini,Samsung Galaxy J1 Mini
+galaxy j1 mini prime,Samsung Galaxy J1 Mini Prime
+galaxy j2,Samsung Galaxy J2
+galaxy j2 (2016),Samsung Galaxy J2 (2016)
+galaxy j2 (2017),Samsung Galaxy J2 (2017)
+galaxy j2 (2018),Samsung Galaxy J2 (2018)
+galaxy j2 core,Samsung Galaxy J2 Core
+galaxy j2 prime,Samsung Galaxy J2 Prime
+galaxy j3,Samsung Galaxy J3
+galaxy j3 (2016),Samsung Galaxy J3 (2016)
+galaxy j3 (2017),Samsung Galaxy J3 (2017)
+galaxy j3 (2018),Samsung Galaxy J3 (2018)
+galaxy j3 emerge,Samsung Galaxy J3 Emerge
+galaxy j3 luna pro,Samsung Galaxy J3 Luna Pro
+galaxy j3 prime,Samsung Galaxy J3 Prime
+galaxy j3 prime (2017),Samsung Galaxy J3 Prime (2017)
+galaxy j3 pro,Samsung Galaxy J3 Pro
+galaxy j4 (2018),Samsung Galaxy J4 (2018)
+galaxy j4 core,Samsung Galaxy J4 Core
+galaxy j4+,Samsung Galaxy J4+
+galaxy j5,Samsung Galaxy J5
+galaxy j5 (2016),Samsung Galaxy J5 (2016)
+galaxy j5 (2017),Samsung Galaxy J5 (2017)
+galaxy j5 prime,Samsung Galaxy J5 Prime
+galaxy j5 pro,Samsung Galaxy J5 Pro
+galaxy j6,Samsung Galaxy J6
+galaxy j6+,Samsung Galaxy J6+
+galaxy j7,Samsung Galaxy J7
+galaxy j7 (2016),Samsung Galaxy J7 (2016)
+galaxy j7 (2017),Samsung Galaxy J7 (2017)
+galaxy j7 (2018),Samsung Galaxy J7 (2018)
+galaxy j7 core,Samsung Galaxy J7 Core
+galaxy j7 duo,Samsung Galaxy J7 Duo
+galaxy j7 max,Samsung Galaxy J7 Max
+galaxy j7 neo,Samsung Galaxy J7 Neo
+galaxy j7 nxt,Samsung Galaxy J7 Nxt
+galaxy j7 prime,Samsung Galaxy J7 Prime
+galaxy j7 prime 2,Samsung Galaxy J7 Prime 2
+galaxy j7 pro,Samsung Galaxy J7 Pro
+galaxy j7 refine,Samsung Galaxy J7 Refine
+galaxy j7+,Samsung Galaxy J7+
+galaxy j8,Samsung Galaxy J8
+galaxy light,Samsung Galaxy Light
+galaxy m20,Samsung Galaxy M20
+galaxy mega 2,Samsung Galaxy Mega 2
+galaxy mega 5.8,Samsung Galaxy Mega 5.8
+galaxy mega 6.3,Samsung Galaxy Mega 6.3
+galaxy mini,Samsung Galaxy Mini
+galaxy mini 2,Samsung Galaxy Mini 2
+galaxy note,Samsung Galaxy Note
+galaxy note 10.1,Samsung Galaxy Note 10.1
+galaxy note 10.1 2014,Samsung Galaxy Note 10.1 2014
+galaxy note 3,Samsung Galaxy Note 3
+galaxy note 3 neo,Samsung Galaxy Note 3 Neo
+galaxy note 3 neo duos,Samsung Galaxy Note 3 Neo Duos
+galaxy note 4,Samsung Galaxy Note 4
+galaxy note 4 duos,Samsung Galaxy Note 4 Duos
+galaxy note 5,Samsung Galaxy Note 5
+galaxy note 7,Samsung Galaxy Note 7
+galaxy note 8,Samsung Galaxy Note 8
+galaxy note 8.0,Samsung Galaxy Note 8.0
+galaxy note 9,Samsung Galaxy Note 9
+galaxy note edge,Samsung Galaxy Note Edge
+galaxy note ii,Samsung Galaxy Note II
+galaxy on5,Samsung Galaxy On5
+galaxy on5 (2016),Samsung Galaxy On5 (2016)
+galaxy on7,Samsung Galaxy On7
+galaxy on7 (2017),Samsung Galaxy On7 (2017)
+galaxy on7 prime (2018),Samsung Galaxy On7 Prime (2018)
+galaxy pocket,Samsung Galaxy Pocket
+galaxy pocket 2,Samsung Galaxy Pocket 2
+galaxy pocket 2 duos,Samsung Galaxy Pocket 2 Duos
+galaxy pocket duos,Samsung Galaxy Pocket Duos
+galaxy pocket neo,Samsung Galaxy Pocket Neo
+galaxy pocket neo duos,Samsung Galaxy Pocket Neo Duos
+galaxy pocket plus,Samsung Galaxy Pocket Plus
+galaxy s,Samsung Galaxy S
+galaxy s advance,Samsung Galaxy S Advance
+galaxy s duos,Samsung Galaxy S Duos
+galaxy s duos 2,Samsung Galaxy S Duos 2
+galaxy s duos 3,Samsung Galaxy S Duos 3
+galaxy s ii,Samsung Galaxy S II
+galaxy s ii plus,Samsung Galaxy S II Plus
+galaxy s ii skyrocket,Samsung Galaxy S II Skyrocket
+galaxy s ii tv,Samsung Galaxy S II TV
+galaxy s iii,Samsung Galaxy S III
+galaxy s iii alpha,Samsung Galaxy S III Alpha
+galaxy s iii mini,Samsung Galaxy S III Mini
+galaxy s iii neo,Samsung Galaxy S III Neo
+galaxy s iii neo plus,Samsung Galaxy S III Neo Plus
+galaxy s iii neo+,Samsung Galaxy S III Neo+
+galaxy s iii slim,Samsung Galaxy S III Slim
+galaxy s10,Samsung Galaxy S10
+galaxy s10+,Samsung Galaxy S10+
+galaxy s4,Samsung Galaxy S4
+galaxy s4 active,Samsung Galaxy S4 Active
+galaxy s4 mini,Samsung Galaxy S4 Mini
+galaxy s4 value edition,Samsung Galaxy S4 Value Edition
+galaxy s4 zoom,Samsung Galaxy S4 Zoom
+galaxy s5,Samsung Galaxy S5
+galaxy s5 active,Samsung Galaxy S5 Active
+galaxy s5 duos,Samsung Galaxy S5 Duos
+galaxy s5 mini,Samsung Galaxy S5 Mini
+galaxy s5 neo,Samsung Galaxy S5 Neo
+galaxy s5 plus,Samsung Galaxy S5 Plus
+galaxy s5 prime,Samsung Galaxy S5 Prime
+galaxy s5 sport,Samsung Galaxy S5 Sport
+galaxy s6,Samsung Galaxy S6
+galaxy s6 active,Samsung Galaxy S6 Active
+galaxy s6 edge,Samsung Galaxy S6 Edge
+galaxy s6 edge plus,Samsung Galaxy S6 Edge Plus
+galaxy s7,Samsung Galaxy S7
+galaxy s7 active,Samsung Galaxy S7 Active
+galaxy s7 edge,Samsung Galaxy S7 Edge
+galaxy s8,Samsung Galaxy S8
+galaxy s8 active,Samsung Galaxy S8 Active
+galaxy s8+,Samsung Galaxy S8+
+galaxy s9,Samsung Galaxy S9
+galaxy s9+,Samsung Galaxy S9+
+galaxy star,Samsung Galaxy Star
+galaxy star 2,Samsung Galaxy Star 2
+galaxy star advance,Samsung Galaxy Star Advance
+galaxy star pro,Samsung Galaxy Star Pro
+galaxy star trios,Samsung Galaxy Star Trios
+galaxy tab 2 10.1,Samsung Galaxy Tab 2 10.1
+galaxy tab 2 7.0,Samsung Galaxy Tab 2 7.0
+galaxy tab 3 10.1,Samsung Galaxy Tab 3 10.1
+galaxy tab 3 7.0,Samsung Galaxy Tab 3 7.0
+galaxy tab 3 8.0,Samsung Galaxy Tab 3 8.0
+galaxy tab 3 lite,Samsung Galaxy Tab 3 Lite
+galaxy tab 3 v,Samsung Galaxy Tab 3 V
+galaxy tab 4 10.1,Samsung Galaxy Tab 4 10.1
+galaxy tab 4 7.0,Samsung Galaxy Tab 4 7.0
+galaxy tab 4 8.0,Samsung Galaxy Tab 4 8.0
+galaxy tab a,Samsung Galaxy Tab A
+galaxy tab a 10.1 (2016),Samsung Galaxy Tab A 10.1 (2016)
+galaxy tab a 7.0 (2016),Samsung Galaxy Tab A 7.0 (2016)
+galaxy tab a 8.0,Samsung Galaxy Tab A 8.0
+galaxy tab a 9.7,Samsung Galaxy Tab A 9.7
+galaxy tab e 8.0,Samsung Galaxy Tab E 8.0
+galaxy tab e 9.6,Samsung Galaxy Tab E 9.6
+galaxy tab pro 10.1,Samsung Galaxy Tab Pro 10.1
+galaxy tab s 10.5,Samsung Galaxy Tab S 10.5
+galaxy tab s2 8.0,Samsung Galaxy Tab S2 8.0
+galaxy tab s2 9.7,Samsung Galaxy Tab S2 9.7
+galaxy trend,Samsung Galaxy Trend
+galaxy trend lite,Samsung Galaxy Trend Lite
+galaxy trend lite 2,Samsung Galaxy Trend Lite 2
+galaxy trend plus,Samsung Galaxy Trend Plus
+galaxy v,Samsung Galaxy V
+galaxy v plus,Samsung Galaxy V Plus
+galaxy w,Samsung Galaxy W
+galaxy win,Samsung Galaxy Win
+galaxy win 2 duos tv,Samsung Galaxy Win 2 Duos TV
+galaxy win duos,Samsung Galaxy Win Duos
+galaxy xcover 3,Samsung Galaxy Xcover 3
+galaxy xcover 4,Samsung Galaxy Xcover 4
+galaxy y,Samsung Galaxy Y
+galaxy y duos,Samsung Galaxy Y Duos
+galaxy y plus,Samsung Galaxy Y Plus
+galaxy y pro,Samsung Galaxy Y Pro
+galaxy y tv,Samsung Galaxy Y TV
+galaxy young,Samsung Galaxy Young
+galaxy young 2,Samsung Galaxy Young 2
+galaxy young 2 duos,Samsung Galaxy Young 2 Duos
+galaxy young plus tv,Samsung Galaxy Young Plus TV
+note 3 neo duos,Samsung Note 3 Neo Duos
+pocket neo,Samsung Pocket Neo
+aquos crystal,Sharp Aquos Crystal
+aquos crystal x,Sharp Aquos Crystal X
+aquos ever,Sharp Aquos Ever
+aquos phone serie shl22,Sharp Aquos Phone Serie SHL22
+aquos phone serie shl23,Sharp Aquos Phone Serie SHL23
+aquos phone xx mini,Sharp Aquos Phone Xx mini
+aquos phone zeta sh-02e,Sharp Aquos Phone Zeta SH-02E
+aquos xx,Sharp Aquos Xx
+sharp,Sharp Devices
+andromax a,Smartfren Andromax A
+andromax es,Smartfren Andromax Es
+smartfren,Smartfren Devices
+sony,Sony Devices
+xperia c,Sony Xperia C
+xperia c3 dual,Sony Xperia C3 Dual
+xperia c4,Sony Xperia C4
+xperia c4 dual,Sony Xperia C4 Dual
+xperia c5 ultra,Sony Xperia C5 Ultra
+xperia c5 ultra dual,Sony Xperia C5 Ultra Dual
+xperia e,Sony Xperia E
+xperia e dual,Sony Xperia E Dual
+xperia e1,Sony Xperia E1
+xperia e1 dual,Sony Xperia E1 Dual
+xperia e3,Sony Xperia E3
+xperia e3 dual,Sony Xperia E3 Dual
+xperia e4,Sony Xperia E4
+xperia e4g,Sony Xperia E4g
+xperia e4g dual,Sony Xperia E4g Dual
+xperia e5,Sony Xperia E5
+xperia j,Sony Xperia J
+xperia l,Sony Xperia L
+xperia l1,Sony Xperia L1
+xperia m,Sony Xperia M
+xperia m2,Sony Xperia M2
+xperia m2 aqua,Sony Xperia M2 Aqua
+xperia m4 aqua,Sony Xperia M4 Aqua
+xperia m5,Sony Xperia M5
+xperia m5 dual,Sony Xperia M5 Dual
+xperia mini,Sony Xperia Mini
+xperia miro,Sony Xperia Miro
+xperia p,Sony Xperia P
+xperia s,Sony Xperia S
+xperia sp,Sony Xperia SP
+xperia tipo,Sony Xperia Tipo
+xperia tipo dual,Sony Xperia Tipo Dual
+xperia u,Sony Xperia U
+xperia ul,Sony Xperia UL
+xperia x,Sony Xperia X
+xperia x compact,Sony Xperia X Compact
+xperia x performance,Sony Xperia X Performance
+xperia xa,Sony Xperia XA
+xperia xa ultra,Sony Xperia XA Ultra
+xperia xa1,Sony Xperia XA1
+xperia xa1 ultra,Sony Xperia XA1 Ultra
+xperia xz,Sony Xperia XZ
+xperia xz premium,Sony Xperia XZ Premium
+xperia xz1,Sony Xperia XZ1
+xperia z,Sony Xperia Z
+xperia z ultra,Sony Xperia Z Ultra
+xperia z1,Sony Xperia Z1
+xperia z1 compact,Sony Xperia Z1 Compact
+xperia z1 f,Sony Xperia Z1 f
+xperia z1s,Sony Xperia Z1s
+xperia z2,Sony Xperia Z2
+xperia z2 tablet,Sony Xperia Z2 Tablet
+xperia z2a,Sony Xperia Z2a
+xperia z3,Sony Xperia Z3
+xperia z3 compact,Sony Xperia Z3 Compact
+xperia z3 dual,Sony Xperia Z3 Dual
+xperia z3+,Sony Xperia Z3+
+xperia z3v,Sony Xperia Z3v
+xperia z5,Sony Xperia Z5
+xperia z5 compact,Sony Xperia Z5 Compact
+xperia z5 premium,Sony Xperia Z5 Premium
+sony_ericsson,Sony_ericsson Devices
+xperia arc s,Sony_ericsson Xperia Arc S
+camon c8,Tecno Camon C8
+camon i,Tecno Camon I
+tecno,Tecno Devices
+f1,Tecno F1
+pop 1,Tecno Pop 1
+spark 2,Tecno Spark 2
+spark k7,Tecno Spark K7
+w2,Tecno W2
+w3,Tecno W3
+w4,Tecno W4
+wx3,Tecno WX3
+wx3 pro,Tecno WX3 Pro
+y2,Tecno Y2
+true,True Devices
+smart max 4.0 plus,True Smart Max 4.0 Plus
+1603,Vivo 1603
+vivo,Vivo Devices
+v11,Vivo V11
+v11 pro,Vivo V11 Pro
+v3,Vivo V3
+v5,Vivo V5
+v5 plus,Vivo V5 Plus
+v5s,Vivo V5s
+v7,Vivo V7
+v7+,Vivo V7+
+v9,Vivo V9
+v9 youth,Vivo V9 Youth
+vivo 1603,Vivo vivo 1603
+y15,Vivo Y15
+y21,Vivo Y21
+y21l,Vivo Y21L
+y51,Vivo Y51
+y51l,Vivo Y51L
+y53,Vivo Y53
+y55l,Vivo Y55L
+y55s,Vivo Y55S
+y66,Vivo Y66
+y69,Vivo Y69
+y71,Vivo Y71
+y81,Vivo Y81
+y81i,Vivo Y81i
+y83,Vivo Y83
+y85,Vivo Y85
+y91,Vivo Y91
+y91c,Vivo Y91C
+y93,Vivo Y93
+y95,Vivo Y95
+vodafone,Vodafone Devices
+smart kicka,Vodafone Smart Kicka
+smart mini,Vodafone Smart Mini
+wiko,Wiko Devices
+jerry,Wiko Jerry
+lenny 2,Wiko Lenny 2
+lenny 3,Wiko Lenny 3
+sunny 2 plus,Wiko Sunny 2 Plus
+xiaomi,Xiaomi Devices
+mi 4i,Xiaomi Mi 4i
+mi 5,Xiaomi Mi 5
+mi 8 lite,Xiaomi MI 8 Lite
+mi a1,Xiaomi Mi A1
+mi a2,Xiaomi Mi A2
+mi a2 lite,Xiaomi Mi A2 Lite
+mi max,Xiaomi Mi Max
+mi max 2,Xiaomi Mi Max 2
+redmi 1s,Xiaomi Redmi 1S
+redmi 2,Xiaomi Redmi 2
+redmi 3,Xiaomi Redmi 3
+redmi 3s,Xiaomi Redmi 3S
+redmi 4,Xiaomi Redmi 4
+redmi 4a,Xiaomi Redmi 4A
+redmi 4x,Xiaomi Redmi 4X
+redmi 5,Xiaomi Redmi 5
+redmi 5 plus,Xiaomi Redmi 5 Plus
+redmi 5a,Xiaomi Redmi 5A
+redmi 6,Xiaomi Redmi 6
+redmi 6 pro,Xiaomi Redmi 6 Pro
+redmi 6a,Xiaomi Redmi 6A
+redmi note,Xiaomi Redmi Note
+redmi note 2,Xiaomi Redmi Note 2
+redmi note 3,Xiaomi Redmi Note 3
+redmi note 4,Xiaomi Redmi Note 4
+redmi note 4g,Xiaomi Redmi Note 4G
+redmi note 4x,Xiaomi Redmi Note 4X
+redmi note 5,Xiaomi Redmi Note 5
+redmi note 5 pro,Xiaomi Redmi Note 5 Pro
+redmi note 5a,Xiaomi Redmi Note 5A
+redmi note 6 pro,Xiaomi Redmi Note 6 Pro
+redmi note 7,Xiaomi Redmi Note 7
+redmi s2,Xiaomi Redmi S2
+redmi y1,Xiaomi Redmi Y1
+redmi y1 lite,Xiaomi Redmi Y1 Lite
+blade l2,Zte Blade L2
+blade l5,Zte Blade L5
+blade z max,Zte Blade Z Max
+zte,Zte Devices
+maven 3,Zte Maven 3
+max xl,Zte Max XL
+zmax pro,Zte Zmax Pro

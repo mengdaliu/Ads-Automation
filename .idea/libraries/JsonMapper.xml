@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JsonMapper">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jackson-databind-master/src/main/java/com/fasterxml/jackson/databind/json/JsonMapper.java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
